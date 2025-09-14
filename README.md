@@ -1,7 +1,7 @@
+![image](Coffee.png)
+
 # Analyze Data with Python
 Codecademy Portfolio project
-
-![image](Coffee.png)
 
 #### Overview
 This project is part of the Codecademy Portfolio Project "Analyze Data with Python", where I'll be using the Global Coffee Health Dataset, which contains information on coffee consumption, sleep patterns, and health outcomes worldwide.
