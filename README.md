@@ -49,3 +49,35 @@ The columns are:
 |Occupation|Categorical|Office, Healthcare, Student, Service, Other|
 |Smoking|Boolean|0 = No, 1 = Yes|
 |Alcohol_Consumption|Boolean|0 = No, 1 = Yes|
+
+#### Index
+1. Initial Insights
+2. Demographics
+   1. Coffee Consumption by Gender
+   2. Coffee Consumption by Age
+   3. Coffee Consumption by Country
+   4. Coffee Consumption by Occupation
+3. Correlations
+   1. Coffee Consumption Correlations
+   2. Sleep Quality Correlations
+   3. Health Issues Correlations
+4. Hypothesis Tests
+   1. Is Coffee Consumption Related to Hours Slept?
+   2. Does Coffee Consumption Affect Sleep Quality?
+   3. Does Coffee Consumption Have Any Effect On Stress Level?
+   4. Is Coffee Consumption Correlated to Health Issues?
+   5. Does Smoking Or Drinking Alcohol Impact Coffee Consumption?
+   6. Does Physical Activity Affect Sleep Quality?
+   7. Is Sleep Quality Related to Stress Levels or Health Issues?
+5. Conclusion
+
+#### Conclusion
+Working on this assignment has been fun and insightful, and I found out some interesting facts about coffee consumption and some new approaches and methods to work with data.<br>
+The data in the dataset was very symmetrical, with similar representatives across most categories, such as having close percentages from both natural genders, from all countries, and from all occupations.<br>
+I was very surprised to find out that the average coffee intake is quite similar across all demographics, at 2.5 cups per day, as I would have assumed different countries, and possibly even different occupations, would yield different averages.<br>
+From analyzing the plots and the Hypothesis tests, I was able to make some discoveries:
+ - Coffee intake affects the hours of sleep, sleep quality, and stress level.
+ - The quantity of coffee drunk seems to be related to health issues, but contrary to what I was expecting, people with no issues drink more coffee on average than people with mild or moderate health issues, possibly indicating a correlation that coffee might affect health for the positive up to a certain point, but more research would be necessary.
+ - There is no statistically significant difference to say that smoking or drinking alcohol is related to the amount of coffee drunk.
+ - Physical activity does impact sleep quality, but not enough to be relevant, another fact that surprised me, as I was expecting the people that report more physical activity to have much better sleep quality than those with less physical activity.
+ - Sleep quality is heavily impacted by stress levels and health issues, but of course, there might be other factors weighing in on sleep quality as well.
